@@ -1,0 +1,14 @@
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.csproj.AssemblyReference.cache
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.GeneratedMSBuildEditorConfig.editorconfig
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.AssemblyInfoInputs.cache
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.AssemblyInfo.cs
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.csproj.CoreCompileInputs.cache
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\bin\Debug\netcoreapp3.1\demo21jan21.exe
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\bin\Debug\netcoreapp3.1\demo21jan21.deps.json
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\bin\Debug\netcoreapp3.1\demo21jan21.runtimeconfig.json
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\bin\Debug\netcoreapp3.1\demo21jan21.runtimeconfig.dev.json
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\bin\Debug\netcoreapp3.1\demo21jan21.dll
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\bin\Debug\netcoreapp3.1\demo21jan21.pdb
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.dll
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.pdb
+E:\1SiKerja\MII\MCC\NET\codefile\demo21jan21\demo21jan21\obj\Debug\netcoreapp3.1\demo21jan21.genruntimeconfig.cache
